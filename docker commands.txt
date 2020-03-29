@@ -1,0 +1,17 @@
+docker --version
+docker  --help
+docker images
+docker search microsoft
+docker pull  mcr.microsoft.com/windows:1809
+docker run -it mcr.microsoft.com/windows:1809 cmd
+
+hostname
+ipconfig
+dir
+
+Switch to linux 
+
+docker run -it busybox /bin/sh
+
+hostname
+ls
