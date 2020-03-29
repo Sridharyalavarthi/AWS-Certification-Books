@@ -1,0 +1,8 @@
+VCE Testing Engine functions as a realistic simulation of the actual certification exam.
+
+You need use "VCE Player" to run .vce format file on Windows OS.
+
+1. Download "VCE Player" program from http://itexamquiz.com/app/VCEPlayer.zip
+2. Extract the "VCEPlayer.zip" file to new folder first, and then run "player.exe" to add .vce format file.
+
+* Download VCE Mobile for Android via http://itexamquiz.com/app/VCE-Android.zip
